@@ -169,7 +169,9 @@ height: 231px;}
     }
     .logo{
         position: relative;
-        bottom: 50px;
+        bottom: 20px;
+        width: 100%;
+
     }
     .footer {
         padding-top: 90px;
