@@ -103,6 +103,13 @@ ul.conta_icon li a {font-size: 12px;}
         padding-bottom: 6px;
        text-align: center;
     }
+    .banner_main{
+        background-size: 100% 100%;
+        background: url(../images/banner.jpg);
+        width: 100%;
+        height: auto;
+        margin-bottom: 0%;
+    }
     .d_none {display: none;}
     .text-bg {margin-bottom: 30px; padding-top: 0;}
     .text-bg h1 {
@@ -110,7 +117,12 @@ font-size: 28px;
 line-height: 38px;
     }
     .sideimg{
-    width: 400px;
+    width: 100%;
+    height: auto;
+    float: right;
+    padding: 0;
+    margin: 0%;
+    
 }
     .titlepage h2 {
         font-size: 27px;
@@ -159,5 +171,15 @@ height: 231px;}
         position: relative;
         bottom: 50px;
     }
-}
+    .footer {
+        padding-top: 90px;
+        width: 100%;
+        height: auto;
+        background-color: #092352;
+        background-image: none;
+        background-repeat: no-repeat;
+        text-align: center;
+        margin-top: 90px;
+   }
+} 
 
